@@ -78,7 +78,7 @@ Here is a look at Nuvei's recent performance in some of the key metrics.
 
 Nuvei continues to see momentum in the business and projected targets for the annual at 15% - 20% year-on-year Revenue growth and above 50% Adjusted EBITDA margin over the long-term. 
 
-While its competetion in Paypal, Stripe and other major players in the domain have a larger market share globally, generating impressive numbers in Revenue Groeth, Earnings and Enterprise Value, Nuvei is making big strides through acquisitions and native technological advancements.  
+While its competetion in Paypal, Stripe and other major players in the domain have a larger market share globally, generating impressive numbers in Revenue Growth, Earnings and Enterprise Value, Nuvei is making big strides through acquisitions and native technological advancements.  
 
 ## NUVEI: The Next Move
 
