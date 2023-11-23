@@ -56,9 +56,29 @@ The machine learning model extracts complex patterns to improve the identificati
 
 Nuvei operates in the domain of Payments & Remittances and Digital Banking. It offers cutting-edge payment solutions, comprehensive payout choices, and robust financial services such as card issuing, banking, risk management and fraud prevention to enterprises of all sizes.
 
-Fintech innovations in the payments industry have revolutionized the way we make payments, providing consumers with convenience, speed, and security. Mobile payments, peer-to-peer payments, digital wallets, cloud-based technology, contactless payments, and biometric authentication are just a few of the fintech innovations revolutionizing the payments industry in the last 5-10 years.
+Over the past 5-10 years, the field of Payments in Finance and advancements in Science & Technology acted as catalyst for Fintech innovations that revolutionized the way we make payments, providing consumers with convenience, speed, and security. A recent survey by PwC in **Payments 2025 & beyond** has brought out some key aspects of this trend.
 
-Nuvei's growth in terms of expanding market is achived through dual strategy of in-house technological advancements and acquisitions.
+- 90% of banks' useful customer data comes from payments.
+- 86% agreed that traditional payments providers will collaborate with fintechs and technology providers as one of their main sources of innovation. 
+- 89% agreed that the shift towards e-commerce would continue to increase.
+
+The digital boom of last decade has seen proliferation of mobile-first digital technologies that revolutionized cashless payments, rendering cash even less relevant to daily life. Not only were traditional ways of paying for goods and services transformed radically, but the entire infrastructure of payments was reshaped, with new business models.
+
+Two parallel trends emerged in the payments domain as a  result: 
+
+An **evolution** of the front- and back-end parts of the payment system:
+- instant payments;
+- bill payments and request to pay;
+- plastic cards and digital wallets 
+
+A **revolution** involving huge structural changes to the payment mix and ecosystem:
+- emergence of so-called “buy now, pay later” offerings; 
+- peer-to-peer offerings;
+- cryptocurrencies
+
+Both **evolution** and **revolution** swept the FinTech ecosystem, but in different ways and at different paces, creating a complex payments matrix. And, Many organisations are trying to figure out where to play — and win — in that matrix, gave rise to intense level of merger and acquisition (M&A) activity since 2017.
+
+Nuvei's growth in terms of expanding market was achived during this phase through a dual strategy of in-house technological advancements and acquisitions.
 
 In August 2019, Nuvei completed its acquisition of SafeCharge for CA$1.1 billion and In November 2020, Nuvei completed the acquisition of Smart2Pay as part of a drive to strengthen its presence in high-growth digital commerce verticals. A month later in December 2020, Nuvei announced it was acquiring Base Commerce, a payment processing company specializing in bankcard and ACH payment processing. More recently in 2023, it acquired Paya Holdings, Nuvei's competetor in USA and BLIK in Poland.
 
@@ -82,14 +102,14 @@ While its competetion in Paypal, Stripe and other major players in the domain ha
 
 ## NUVEI: The Next Move
 
-My Idea for Nuvei is to venture more into ML/AI technologies.
+My Idea for Nuvei is to venture more into ML/AI on technology side and usage of Digital Wallets in Finance domain.
 
-To start with, the company could offer Robo Advising to its business clients on Forex management especially on Currency Options considering the company operates in different geographies and currencies.
+Use of mobile payments will continue to rise inexorably and proliferation of open-banking and super-apps will drive user convenience, both in terms of cost and time, towards usage of digital wallets. B2B and digitised supply chains being the obvious next frontiers for wallets, the company could acquire Supply Chain Management partner and using the history of data from its clients' payments, receivables and payables, we can optimize the payment schedules and inventory ordering thereby strengthening cashflows and making the payments work for clients' profits and revenue. All these automated through the technological advancements of ML/AI.
+
+Further, the company could offer Robo Advising to its business clients on Forex management especially on Currency Options considering the company operates in different geographies and currencies.
 
 With technological advancements in field of AI, the company, when the timing is appropriate, dwell into smart contracts to manage bill payments and trade settlements for its clients. All these as additional platforms without the need for client to alter there existing payment ecosystem.
-
-Further, the company could acquire Supply Chain Management partner and using the history of data from its clients' payments, receivables and payables, we can optimize the payment schedules and inventory ordering thereby strengthening cashflows and making the payments work for clients' profits and revenue. All these automated through the technological advancements of ML/AI.   
-
+ 
 I think offering these products would be a natural extension of the payment ecosystem. And, staying true to its operating model, Nuvei could extend these advanced solutions as plug and play SaaS platforms and be a one stop solution to Money Management for its business clients going beyond Payments Management.
 While this would provide more revenue generating options and savings to the clients, it would increase the transactions carried out through Nuvei's platforms and increase the company's revenue, client retention and overall profits.   
 
@@ -117,4 +137,5 @@ To understand the client payment needs and suggest appropriate timing for trade 
 - https://finmodelslab.com/blogs/kpi-metrics/fintech-kpi-metrics#:~:text=By%20monitoring%20the%20top%20seven,success%20of%20your%20Fintech%20Startup.
 - https://www.capterra.com/p/184487/SafeCharge/alternatives/
 - https://en.wikipedia.org/wiki/Nuvei
+- https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html
 
