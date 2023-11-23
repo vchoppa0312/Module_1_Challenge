@@ -78,7 +78,7 @@ Here is a look at Nuvei's recent performance in some of the key metrics.
 
 Nuvei continues to see momentum in the business and projected targets for the annual at 15% - 20% year-on-year Revenue growth and above 50% Adjusted EBITDA margin over the long-term. 
 
-While its competetion in Paypal, Stripe and other major players in the domain have a larger market share globally, Nuvei is making big strides through acquisitions and native technological advancements.  
+While its competetion in Paypal, Stripe and other major players in the domain have a larger market share globally, generating impressive numbers in Revenue Groeth, Earnings and Enterprise Value, Nuvei is making big strides through acquisitions and native technological advancements.  
 
 ## NUVEI: The Next Move
 
@@ -91,7 +91,7 @@ With technological advancements in field of AI, the company, when the timing is 
 Further, the company could acquire Supply Chain Management partner and using the history of data from its clients' payments, receivables and payables, we can optimize the payment schedules and inventory ordering thereby strengthening cashflows and making the payments work for clients' profits and revenue. All these automated through the technological advancements of ML/AI.   
 
 I think offering these products would be a natural extension of the payment ecosystem. And, staying true to its operating model, Nuvei could extend these advanced solutions as plug and play SaaS platforms and be a one stop solution to Money Management for its business clients going beyond Payments Management.
-While would provide more revenue generating options and savings to the clients, it would increase the transactions carried out through Nuvei's platforms and increase the company's revenue, client retention and overall profits.   
+While this would provide more revenue generating options and savings to the clients, it would increase the transactions carried out through Nuvei's platforms and increase the company's revenue, client retention and overall profits.   
 
 Apart from the existing technologies being used at Nuvei, these new products would need a heavier implementation of Machine Learning/Artificial Intelligence technology, Big Data Analysis, Cloud-based Computing, Blockchain & Smart Contract technologies. 
 
